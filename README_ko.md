@@ -2,10 +2,17 @@
 
 <div align="center">
 
-![Light Mode Logo](logo_white.png#gh-light-mode-only)
-![Dark Mode Logo](logo_black.png#gh-dark-mode-only)
+![Light Mode Logo](assets/logo_white.png#gh-light-mode-only)
+![Dark Mode Logo](assets/logo_black.png#gh-dark-mode-only)
 
 </div>
+
+이 프로젝트의 README는 한국어와 일본어로 제공됩니다.
+<br>
+このプロジェクトの README は日本語と韓国語で提供いたします。
+
+- [한국어 (Korean)](README_ko.md)
+- [日本語 (Japanese)](README.md)
 
 <br><br>
 
@@ -75,6 +82,8 @@ YOLO를 이용하여 번호판을 탐지하고 Easy OCR을 이용하여 글자�
 
 YOLO를 통해 인식한 차량 객체를 DeepSORT를 이용하여 트래킹 합니다.
 
+<img src="assets/car_tracking.gif" alt="Demo Video" width="500px">
+
 ### 경로 안내
 
 트래킹 한 차량의 위치를 바탕으로 구역의 혼잡도를 계산하여 경로를 안내합니다.
@@ -100,12 +109,11 @@ YOLO를 통해 인식한 차량 객체를 DeepSORT를 이용하여 트래킹 합
 
 - **YOLO (You Only Look Once)**: 차량 및 번호판 탐지 모델
 - **OpenCV**: 이미지 처리 및 차량 위치 추적
-- **OCR (Optical Character Recognition)**: 번호판 인식
+- **EasyOCR (Optical Character Recognition)**: 번호판 글자 인식
 - **DeepSORT**: 차량 트래킹
 - **Flask**: 서버 구축 및 클라이언트 데이터 통신
 - **Socket.IO**: 실시간 통신을 통한 모니터링 페이지 업데이트
 - **React**: 모니터링 페이지 프론트엔드 개발
-- **C++**: Arduino 코드 작성 및 하드웨어 제어
 
 ### 프로그래밍 언어
 
