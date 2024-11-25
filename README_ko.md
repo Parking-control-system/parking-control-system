@@ -52,9 +52,9 @@
 
 # 프로젝트 멤버
 
-|                          [김규민](https://github.com/kyumin1227)                           |                            [김민석](https://github.com/kms8032)                             |                            [김성식](https://github.com/Gapsick)                             |                        [오오이 아야메](https://github.com/ohiayame)                         |                        [카와이 사츠키](https://github.com/Saaatsuki)                        |
-| :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/68456336?v=4" width=400px alt="김규민"/> | <img src="https://avatars.githubusercontent.com/u/166794112?v=4" width=400px alt="김민석"/> | <img src="https://avatars.githubusercontent.com/u/171534789?v=4" width=400px alt="김성식"/> | <img src="https://avatars.githubusercontent.com/u/166793391?v=4" width=400px alt="아야메"/> | <img src="https://avatars.githubusercontent.com/u/166793481?v=4" width=400px alt="사츠키"/> |
+|                                                [김규민](https://github.com/kyumin1227)                                                 |                                                 [김민석](https://github.com/kms8032)                                                 |                                                 [김성식](https://github.com/Gapsick)                                                 |                                             [오오이 아야메](https://github.com/ohiayame)                                              |                                             [카와이 사츠키](https://github.com/Saaatsuki)                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/kyumin1227"><img src="https://avatars.githubusercontent.com/u/68456336?v=4" width=400px alt="김규민"/></a> | <a href="https://github.com/kms8032"><img src="https://avatars.githubusercontent.com/u/166794112?v=4" width=400px alt="김민석"/></a> | <a href="https://github.com/Gapsick"><img src="https://avatars.githubusercontent.com/u/171534789?v=4" width=400px alt="김성식"/></a> | <a href="https://github.com/ohiayame"><img src="https://avatars.githubusercontent.com/u/166793391?v=4" width=400px alt="아야메"/></a> | <a href="https://github.com/Saaatsuki"><img src="https://avatars.githubusercontent.com/u/166793481?v=4" width=400px alt="사츠키"/></a> |
 
 <br>
 
@@ -87,6 +87,8 @@ YOLO를 통해 인식한 차량 객체를 DeepSORT를 이용하여 트래킹 합
 ### 경로 안내
 
 트래킹 한 차량의 위치를 바탕으로 구역의 혼잡도를 계산하여 경로를 안내합니다.
+
+<img src="assets/cal_route.gif" alt="Demo Video" width="500px">
 
 ### 모니터링 페이지
 
