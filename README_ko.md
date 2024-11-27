@@ -78,6 +78,8 @@
 
 YOLO를 이용하여 번호판을 탐지하고 Easy OCR을 이용하여 글자를 읽습니다.
 
+<img src="assets/numberplate_ocr.gif" alt="Demo Video" width="500px">
+
 ### 차량 트래킹
 
 YOLO를 통해 인식한 차량 객체를 DeepSORT를 이용하여 트래킹 합니다.
