@@ -78,6 +78,19 @@
 
 YOLO를 이용하여 번호판을 탐지하고 Easy OCR을 이용하여 글자를 읽습니다.
 
+<details>
+
+- 실행: Jetson Nano
+- 목적: 차량 입출차기 동작
+- 흐름: Jetson Nano -> Jetson Orin Nano
+- 흐름2: Jetson Nano -> Motor
+
+---
+
+차량의 번호판이 인식 될 경우 인식된 번호를 uart를 통해 메인프로그램이 도는 Jetson Orin Nano로 전달한다.
+
+</details>
+
 <img src="assets/numberplate_ocr.gif" alt="Demo Video" width="500px">
 
 ### 차량 트래킹
@@ -99,6 +112,10 @@ YOLO를 통해 인식한 차량 객체를 DeepSORT를 이용하여 트래킹 합
 <img src="assets/monitoring.gif" alt="Demo Video" width="1000px">
 
 <br><br>
+
+# 최종 사용 모델
+
+[yolo 모델](https://drive.google.com/file/d/1IWR1UjIvDJyXaY_xoT0IfF2XsE14R15A/view?usp=share_link)
 
 # 기술 스택
 
