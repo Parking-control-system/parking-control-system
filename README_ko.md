@@ -26,7 +26,9 @@
 
 [4. 기술 스택](#기술-스택)
 
-[5. 리포지토리](#리포지토리)
+[5. 성과](#성과)
+
+[6. 리포지토리](#리포지토리)
 
 <br><br>
 
@@ -47,6 +49,10 @@
 ### 목표
 
 이 시스템은 **카메라 기반 기술**을 통해 **실시간 차량 위치 탐지**, **번호판 인식**, **경로 최적화** 등의 기능을 제공하여, 주차 공간이 늘어날수록 경제성과 효율성을 극대화하여 보다 스마트한 주차 관리 환경을 조성하는 것을 목표로 합니다.
+
+### 📽️ **소개 영상（YouTube）**
+
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/VlooaDZfzCg)
 
 <br><br>
 
@@ -150,6 +156,22 @@ YOLO를 통해 인식한 차량 객체를 DeepSORT를 이용하여 트래킹 합
 - **Socket.IO**: 프로그램, 서버, 클라이언트 간 실시간 데이터 전송
 
 <br><br>
+
+# 성과
+
+### 전시 (2024 산학연 협렵 EXPO)
+
+<p>
+    <img width="45%" src="assets/expo-1.jpeg">
+    <img width="45%" src="assets/expo-2.jpeg">
+</p>
+
+### 수상
+
+<p>
+    <img width="30%" src="assets/award-1.png">
+    <img width="30%" src="assets/award-2.jpeg">
+</p>
 
 # 리포지토리
 

@@ -26,7 +26,9 @@
 
 [4. 技術スタック](#技術スタック)
 
-[5. リポジトリ](#リポジトリ)
+[5. 実績](#実績)
+
+[6. リポジトリ](#リポジトリ)
 
 <br><br>
 
@@ -47,6 +49,10 @@
 ### 目標
 
 このシステムは **カメラを基盤とした技術**を通じて **リアルタイム車両位置検知**, **ナンバープレート認識**, **経路の最適化** などの機能を提供して、駐車スペースが増えるほど、経済性と効率性を最大化し、よりスマートな駐車管理環境を構築することを目指しています。
+
+### 📽️ **紹介動画（YouTube）**
+
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/B6KY93eVwAs)
 
 <br><br>
 
@@ -130,6 +136,22 @@ YOLO を使用して認識した車両オブジェクトを、DeepSORT を使っ
 - **Socket.IO**: プログラム、サーバー、クライアント間のリアルタイムデータ送信
 
 <br><br>
+
+# 実績
+
+### 展示（2024 産学連携 EXPO）
+
+<p>
+    <img width="45%" src="assets/expo-1.jpeg">
+    <img width="45%" src="assets/expo-2.jpeg">
+</p>
+
+### 受賞
+
+<p>
+    <img width="30%" src="assets/award-1.png">
+    <img width="30%" src="assets/award-2.jpeg">
+</p>
 
 # リポジトリ
 
