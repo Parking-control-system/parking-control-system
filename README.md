@@ -139,19 +139,29 @@ YOLO を使用して認識した車両オブジェクトを、DeepSORT を使っ
 
 # 実績
 
-### 展示（2024 産学連携 EXPO）
+### 展示（2024 産学研協力 EXPO、韓国教育部主催）
 
 <p>
-    <img width="45%" src="assets/expo-1.jpeg">
-    <img width="45%" src="assets/expo-2.jpeg">
+    <img width="45%" src="assets/expo-4.png">
+    <img width="48%" src="assets/expo-2.jpeg">
 </p>
 
 ### 受賞
 
-<p>
-    <img width="30%" src="assets/award-1.png">
-    <img width="30%" src="assets/award-2.jpeg">
-</p>
+<table>
+  <tr>
+    <td align="center" style="width: 260px; word-break: break-word;">
+      <img width="240" src="assets/award-1.png"><br>
+      キャップストーンコンテスト（校外）<br>
+      <strong>奨励賞</strong>
+    </td>
+    <td align="center" style="width: 260px; word-break: break-word;">
+      <img width="240" src="assets/award-2.jpeg"><br>
+      キャップストーンコンテスト（校内）<br>
+      <strong>大賞</strong>
+    </td>
+  </tr>
+</table>
 
 # リポジトリ
 

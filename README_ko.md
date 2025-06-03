@@ -162,8 +162,8 @@ YOLO를 통해 인식한 차량 객체를 DeepSORT를 이용하여 트래킹 합
 ### 전시 (2024 산학연 협렵 EXPO)
 
 <p>
-    <img width="45%" src="assets/expo-1.jpeg">
-    <img width="45%" src="assets/expo-2.jpeg">
+    <img width="45%" src="assets/expo-4.png">
+    <img width="48%" src="assets/expo-2.jpeg">
 </p>
 
 ### 수상
